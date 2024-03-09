@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
+.team-card {
+  margin-bottom: 3rem;
+}
