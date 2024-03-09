@@ -16,29 +16,6 @@ interface TeamProps {
   longitude: number;
 }
 
-// const bandNames = [
-//   {
-//     name: 'The Beastie Boys',
-//     members: 'Ad Rock, MCA, Mike D',
-//     formed: 1979,
-//   },
-//   {
-//     name: 'Wolfmother',
-//     members: 'Andrew Stockdale, Hamish Rosser, Bobby Poulton',
-//     formed: 2004,
-//   },
-//   {
-//     name: 'Cream',
-//     members: 'Eric Clapton, Jack Bruce, Ginger Baker',
-//     formed: 1966,
-//   },
-//   {
-//     name: 'Nirvana',
-//     members: 'Kurt Cobain, Dave Groul, Krist Novoselic',
-//     formed: 1987,
-//   },
-// ];
-
 function Welcome() {
   return <h1>List of College Basketball Teams</h1>;
 }
